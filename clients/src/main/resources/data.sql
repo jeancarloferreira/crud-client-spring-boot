@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Helton Pescada Machado', '50689609000', 1750, TIMESTAMP WITH TIME ZONE '2020-07-13T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Júlio Pádua Moreno', '00174580053', 2200, TIMESTAMP WITH TIME ZONE '2020-07-01T10:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Yi Carrasco Regueira', '48086983072', 1020, TIMESTAMP WITH TIME ZONE '2020-07-14T10:00:00Z', 8);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Rails for Dummies', '56146719005', 3800, TIMESTAMP WITH TIME ZONE '2020-07-14T10:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Dylan Milhães Alencar', '26451762083', 8100, TIMESTAMP WITH TIME ZONE '2020-07-24T10:00:00Z', 7);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Ezio Soveral Rua', '06479633024', 1590, TIMESTAMP WITH TIME ZONE '2020-07-18T10:00:00Z', 9);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Dina Júdice Corte-Real', '07566808087', 1710, TIMESTAMP WITH TIME ZONE '2020-07-19T10:00:00Z', 11);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Harry Parreir Pequeno', '70958325014', 990, TIMESTAMP WITH TIME ZONE '2020-08-14T10:00:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Gabriel Barcelos Vasconcelos', '87721836085', 12300, TIMESTAMP WITH TIME ZONE '2020-10-14T10:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Gabriela Vasconcelos Oliveira', '87920836123', 12300, TIMESTAMP WITH TIME ZONE '2020-11-14T10:00:00Z', 3);
